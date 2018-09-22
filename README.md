@@ -1,12 +1,12 @@
 ### Learn Go
 
-This repo is my attemp at learning Go and building a simple HTTP server which calculates the current age based on the date of birth
+This repo is my attempt at learning Go and building a simple HTTP server which calculates the current age based on the date of birth
 
 ### Download Go
 
 https://golang.org/dl/
 
-### Installation instructions - maing sure Go is working on your machine
+### Installation instructions - making sure Go is working on your machine
 
 https://golang.org/doc/install
 
@@ -20,5 +20,5 @@ Run "go get" terminal/command line
 
 Run "go build"
 
-Run "/learn-go-rest"
+Run "./learn-go-rest"
 
