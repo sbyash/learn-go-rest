@@ -22,3 +22,6 @@ Run "go build"
 
 Run "./learn-go-rest"
 
+### Make a request
+http://localhost:8090/getAge?dob=2000-08-21
+
